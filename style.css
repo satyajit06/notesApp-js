@@ -1,0 +1,13 @@
+#main {
+  background: #808080;
+  background: -webkit-linear-gradient(to right, #3fada8, #808080);
+  background: linear-gradient(to right, #3fada8, #808080);
+  border-radius: 2%;
+}
+
+.card {
+  background: #808080;
+  background: -webkit-linear-gradient(to right, #3fada8, #808080);
+  background: linear-gradient(to right, #3fada8, #808080);
+  border: 2px solid black;
+}
