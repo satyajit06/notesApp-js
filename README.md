@@ -10,4 +10,4 @@
   - Deleting notes
   - Searching/filter notes
 
-> Check the page [here]()
+> Check the page [here](https://satyajit06.github.io/notesApp-js/)
