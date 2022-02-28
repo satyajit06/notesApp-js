@@ -4,9 +4,9 @@
 
 - Used vanilla javascript for adding functionality in my webpage.
 
-  - Adding notes
-  - Deleting notes
-  - Searching/filter notes
+  - Adding notes.
+  - Deleting notes.
+  - Searching/filter notes.
 
 * I have used Bootstrap classes for the most of styling part.
 
